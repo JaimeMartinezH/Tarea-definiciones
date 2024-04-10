@@ -1,9 +1,0 @@
-ayudantia de 7:30 a 9:00 o viernes de 11:30 a 1:20 (hacer todos los ejercicios con funciones)
-Apuntes 26/02/24
-"Funciones" 
-entradas y salidas, ¿Es necesario? Solo es necesario la entrada, la salida no tanto.
-Mostrar metricas cualitativas, "Camel case", "snake case" 
-Funciones en Visual Studio Code 
-Llamar funciones (son importantes los valores)
-Pasos para crear una funcion: Crear el prototipo, definir el cuerpo de la funcion y llamar a la funcion
-(Tarea: 00todos los ejercicios del ejercicio 1 y 2 crear funciones para cada uno y subirlo a github con la intencion de que sepan crear funciones)
